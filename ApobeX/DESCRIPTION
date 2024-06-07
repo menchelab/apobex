@@ -1,0 +1,25 @@
+Package: ApobeX
+Title: bootstrapped background correction of background mutagenesis in mutational signatures
+Version: 0.0.0.1
+Authors@R: 
+    person("Mathilde", "Meyenberg", , "mathilde@menchelab.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5306-4978"))
+Description: This package contains the code for performing bootstrapped background correction of background mutagenesis in mutational signatures. Additionally the pacakge contains data processing and plotting function to specifically explore the activity of APOBEC related signatures SBS2 and SBS13. The package is associated with the paper titled - "Ubiquitin E3 ligases UBR4, UBR5 and HUWE1 protect human genome integrity by targeting cancer-associated APOBEC3 deaminases for degradation." Authors - Irene Schwartz, Valentina Budroni, Mathilde Meyenberg, Harald Hornegger, Kathrin Hacker, Siegfried Schwartz, Zuzana Hodakova, Daniel B. Grabarczyk, Julian F. Ehrmann, Sara Scinicariello, David Haselbach, Jörg Menche, Tim Clausen, Elif Karagöz, Gijs A. Versteeg.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports:
+    MutationalPatterns (>= 3.8.1),
+    BSgenome (>= 1.66.3),
+    BSgenome.Hsapiens.UCSC.hg38 (>= 1.4.5),
+    gridExtra (>= 2.3),
+    ggplot2 (>= 3.5.0),
+    reshape2 (>= 1.4.4),
+    hash (>= 2.2.6.2),
+    Matrix (>= 1.6-4),
+    matrixStats (>= 1.2.0),
+    mutSignatures (>= 2.1.1),
+    lsa (>= 0.73.3),
+    tidyverse (>= 2.0.0)
+
