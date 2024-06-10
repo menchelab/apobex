@@ -10,7 +10,7 @@ link to preprint: https://www.biorxiv.org/content/biorxiv/early/2024/04/26/2024.
 ```bash
 git clone https://github.com/menchelab/apobex.git
 ```
-#### 2. Navigare into the ApobeX directory within the cloned repository
+#### 2. Navigate into the ApobeX directory within the cloned repository
 ```bash
 cd ApobeX
 ```
