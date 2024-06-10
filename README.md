@@ -5,6 +5,7 @@ This repository contains all data and code to analyze and visualize the mutation
 link to preprint: https://www.biorxiv.org/content/biorxiv/early/2024/04/26/2024.04.23.590688.full.pdf
 
 ## Installation instructions
+Installation time 1 minute
 
 #### 1. clone the GitHub repository:
 ```bash
