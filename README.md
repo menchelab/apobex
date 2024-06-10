@@ -12,7 +12,8 @@ git clone https://github.com/menchelab/apobex.git
 ```
 #### 2. Navigate into the ApobeX directory within the cloned repository
 ```bash
-cd ApobeX
+cd apobex #go into cloned repository
+cd ApobeX #go to R package
 ```
 #### 3. Install the ApobeX package from the local repository:
 ```R
