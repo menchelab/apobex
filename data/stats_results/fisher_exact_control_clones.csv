@@ -1,0 +1,2 @@
+,contingency_table,odds_ratio,p_value,clone_stats,ci_low,ci_high
+R2_vs_RA1,"[[1537, 47196], [2566, 44032]]",0.5588309298970274,4.413450682897426e-72,"{'R2': {'total_mutations': 48733, 'apobec_mutations': 1537, 'non_apobec_mutations': 47196}, 'RA1': {'total_mutations': 46598, 'apobec_mutations': 2566, 'non_apobec_mutations': 44032}}",0.5239048119492368,0.5960853977417495
